@@ -172,6 +172,7 @@ Plugins
     - [flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow) Flask + marshmallow for beautiful APIs
     - [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor) - A Jinja extension (compatible with Flask and other frameworks) to compile and/or compress your assets
     - [flask_util_js](https://github.com/dantezhu/flask_util_js) - flask's util in javascript. such as url_for etc
+    - [Flask-JSGlue](https://github.com/stewartpark/Flask-JSGlue) - Hook up your Flask application nicely with the front end. url_for implementation in javascript
     - [flask-s3](https://github.com/e-dard/flask-s3) - Seamlessly serve your static assets of your Flask app from Amazon S3
     - [Flask-SSLify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app
     - [Flask-gzip](https://github.com/closeio/Flask-gzip) - Gzip flask responses
